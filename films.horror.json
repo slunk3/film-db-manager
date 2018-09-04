@@ -1,0 +1,2305 @@
+{
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3cc"
+    },
+    "title": "The Final Girls",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "88 min",
+    "director": "Todd Strauss-Schulson",
+    "writer": "M.A. Fortin, Joshua John Miller",
+    "actors": "Taissa Farmiga, Malin Akerman, Alexander Ludwig, Nina Dobrev",
+    "plot": "A young woman grieving the loss of her mother, a famous scream queen from the 1980s, finds herself pulled into the world of her mom's most famous movie. Reunited, the women must fight off the film's maniacal killer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4Nzk2NzAzOV5BMl5BanBnXkFtZTgwNjI1NzY4NjE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3cd"
+    },
+    "title": "Demon Wind",
+    "year": 1990,
+    "lang": "English",
+    "runtime": "96 min",
+    "director": "Charles Philip Moore",
+    "writer": "Charles Philip Moore",
+    "actors": "Eric Larson, Francine Lapensée, Rufus Norris, Jack Vogel",
+    "plot": "With the need to investigate the mysterious death of his grandparents, Cory and his friends assemble back to the old farm where it all began, sixty years earlier.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTdlM2IxMjEtZWE0NS00MzY2LTk4Y2YtZjU0ZGNmZGYxNGMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ce"
+    },
+    "title": "The Wailing",
+    "year": 2016,
+    "lang": "Korean, Japanese",
+    "runtime": "156 min",
+    "director": "Hong-jin Na",
+    "writer": "Hong-jin Na",
+    "actors": "Do-won Kwak, Jung-min Hwang, Jun Kunimura, Woo-hee Chun",
+    "plot": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkwMTgxNjA2NF5BMl5BanBnXkFtZTgwMDc0OTcwOTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3cf"
+    },
+    "title": "Night of the Creeps",
+    "year": 1986,
+    "lang": "English",
+    "runtime": "88 min",
+    "director": "Fred Dekker",
+    "writer": "Fred Dekker",
+    "actors": "Jason Lively, Steve Marshall, Jill Whitlow, Tom Atkins",
+    "plot": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdhMGFlNzEtMWMxZS00NDAwLWJiYzctNmMyZDdhMTYwZDY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d0"
+    },
+    "title": "The Lords of Salem",
+    "year": 2012,
+    "lang": "English",
+    "runtime": "101 min",
+    "director": "Rob Zombie",
+    "writer": "Rob Zombie",
+    "actors": "Sheri Moon Zombie, Bruce Davison, Jeff Daniel Phillips, Judy Geeson",
+    "plot": "Heidi, a radio DJ, is sent a box containing a record - a \"gift from the Lords\". The sounds within the grooves trigger flashbacks of her town's violent past. Is Heidi going mad, or are the Lords back to take revenge on Salem, Massachusetts?",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NTc5Njc4MV5BMl5BanBnXkFtZTcwNTYzMTcwOQ@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d1"
+    },
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "lang": "English",
+    "runtime": "81 min",
+    "director": "Daniel Myrick, Eduardo Sánchez",
+    "writer": "Daniel Myrick, Eduardo Sánchez",
+    "actors": "Heather Donahue, Joshua Leonard, Michael C. Williams, Bob Griffin",
+    "plot": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQ1NDBlNDItMDAyYS00YTI2LTgwMmYtMzAwMzg4NDFlM2ZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "found footage, supernatural",
+    "availability": "Amazon",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d2"
+    },
+    "title": "The Shining",
+    "year": 1980,
+    "lang": "English",
+    "runtime": "146 min",
+    "director": "Stanley Kubrick",
+    "writer": "Stephen King (novel), Stanley Kubrick (screenplay), Diane Johnson (screenplay)",
+    "actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+    "plot": "A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "classic, suspense, psychological, familial",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d3"
+    },
+    "title": "The Return of the Living Dead",
+    "year": 1985,
+    "lang": "English",
+    "runtime": "91 min",
+    "director": "Dan O'Bannon",
+    "writer": "Rudy Ricci (story), John A. Russo (story), Russell Streiner (story), Dan O'Bannon (screenplay)",
+    "actors": "Clu Gulager, James Karen, Don Calfa, Thom Mathews",
+    "plot": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY0ZjJlNmMtMGU3NC00Yjk3LTk0N2ItMDNlMDVhZjA4OTFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "comedic, zombie, camp, eighties",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d4"
+    },
+    "title": "Night of the Demons",
+    "year": 1988,
+    "lang": "English",
+    "runtime": "90 min",
+    "director": "Kevin Tenney",
+    "writer": "Joe Augustyn",
+    "actors": "Hal Havins, Allison Barron, Alvin Alexis, Harold Ayer",
+    "plot": "Ten teenagers party at an abandoned funeral parlor on Halloween night. When an evil force awakens, demonic spirits keep them from leaving and turn their gathering into a living Hell.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjU2Y2VmMGYtN2Y3OC00OGMwLWFlYTMtOTRlMTE5NDgwODU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "haunted house, eighties, camp",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d5"
+    },
+    "title": "Shakma",
+    "year": 1990,
+    "lang": "English, Japanese",
+    "runtime": "100 min",
+    "director": "Hugh Parks, Tom Logan(co-director)",
+    "writer": "Roger Engle",
+    "actors": "Christopher Atkins, Amanda Wyss, Ari Meyers, Roddy McDowall",
+    "plot": "A wild animal attacks people trapped in a large tower.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MzAwMDMwOV5BMl5BanBnXkFtZTcwNjk4OTM0Nw@@._V1_SX300.jpg",
+    "keywords": "killer animal, no budget",
+    "availability": "DVD",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d6"
+    },
+    "title": "Planet Terror",
+    "year": 2007,
+    "lang": "English",
+    "runtime": "105 min",
+    "director": "Robert Rodriguez",
+    "writer": "Robert Rodriguez",
+    "actors": "Rose McGowan, Freddy Rodríguez, Josh Brolin, Marley Shelton",
+    "plot": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it's up to a rag-tag group of survivors to stop the infected and those behind its release.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdmNmM2ZTgtODM1MS00ZGMxLTk3MTMtMGQ1ODZhMTQ1NWEwL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "gory, comedic, biological, body horror",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d7"
+    },
+    "title": "The Mutilator",
+    "year": 1984,
+    "lang": "English",
+    "runtime": "86 min",
+    "director": "Buddy Cooper, John Douglass(co-director)",
+    "writer": "Buddy Cooper",
+    "actors": "Matt Mitler, Ruth Martinez, Bill Hitchcock, Connie Rogers",
+    "plot": "A teenager who accidentally committed matricide finds himself being hunted together with his girlfriend and mates by his now crazed father.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTExOTgzMzctODUxMS00MWU1LTg4MjgtZTMxMTVlOGY0MWZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d8"
+    },
+    "title": "The Devil's Backbone",
+    "year": 2001,
+    "lang": "Spanish",
+    "runtime": "106 min",
+    "director": "Guillermo del Toro",
+    "writer": "Guillermo del Toro, Antonio Trashorras, David Muñoz",
+    "actors": "Marisa Paredes, Eduardo Noriega, Federico Luppi, Fernando Tielve",
+    "plot": "After Carlos - a 12-year-old whose father has died in the Spanish Civil War - arrives at an ominous boys' orphanage, he discovers the school is haunted and has many dark secrets that he must uncover.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI3MDcwZGItZDMwNS00ZDBjLWEwOGEtMWEyMWUxNDlkYzBjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3d9"
+    },
+    "title": "The Monster Squad",
+    "year": 1987,
+    "lang": "English, German",
+    "runtime": "79 min",
+    "director": "Fred Dekker",
+    "writer": "Shane Black, Fred Dekker",
+    "actors": "Andre Gower, Robby Kiger, Stephen Macht, Duncan Regehr",
+    "plot": "A young group of monster fanatics attempt to save their hometown from Count Dracula and his monsters.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk2OTFlYmQtYzVkNy00ZjM5LThkOGMtOTg0Y2JmZGYwOWY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "comedic, kid safe",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3da"
+    },
+    "title": "Trick 'r Treat",
+    "year": 2007,
+    "lang": "English",
+    "runtime": "82 min",
+    "director": "Michael Dougherty",
+    "writer": "Michael Dougherty",
+    "actors": "Dylan Baker, Rochelle Aytes, Quinn Lord, Lauren Lee Smith",
+    "plot": "Five interwoven stories that occur on Halloween: An everyday high school principal has a secret life as a serial killer; a college virgin might have just met the guy for her; a group of teenagers pull a mean prank; a woman who loathes the night has to contend with her holiday-obsessed husband; and a mean old man meets his match with a demonic, supernatural trick-or-treater.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIyY2E5YjMtZDA3NC00MmIzLWFkZmItNzVlODllZWNlZmRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "keywords": "anthrology, supernatural, Halloween",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3db"
+    },
+    "title": "The Fog",
+    "year": 1980,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "John Carpenter",
+    "writer": "John Carpenter, Debra Hill",
+    "actors": "Adrienne Barbeau, Jamie Lee Curtis, Janet Leigh, John Houseman",
+    "plot": "An unearthly fog rolls into a small coastal town exactly 100 years after a ship mysteriously sank in its waters.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmMwMWM1MWMtOGJlYS00NmIyLWI0MjYtNjJkNDI5OWQ2YjE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3dc"
+    },
+    "title": "The Cabin in the Woods",
+    "year": 2012,
+    "lang": "English, Japanese",
+    "runtime": "95 min",
+    "director": "Drew Goddard",
+    "writer": "Joss Whedon, Drew Goddard",
+    "actors": "Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz",
+    "plot": "Five friends go for a break at a remote cabin, where they get more than they bargained for, discovering the truth behind the cabin in the woods.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX300.jpg",
+    "keywords": "creatures, supernatural, cabin in the woods, survival",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3dd"
+    },
+    "title": "Creep",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "77 min",
+    "director": "Patrick Brice",
+    "writer": "Patrick Brice (story), Mark Duplass (story)",
+    "actors": "Patrick Brice, Mark Duplass",
+    "plot": "A young videographer answers an online ad for a one-day job in a remote town to record the last messages of a dying man. When he notices the man's odd behavior, he starts to question his intentions.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_SX300.jpg",
+    "keywords": "found footage, comedic, psychological",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3de"
+    },
+    "title": "Creep 2",
+    "year": 2017,
+    "lang": "English",
+    "runtime": "78 min",
+    "director": "Patrick Brice",
+    "writer": "Patrick Brice, Mark Duplass",
+    "actors": "Karan Soni, Mark Duplass, Desiree Akhavan, Kyle Field",
+    "plot": "A video artist looking for work drives to a remote house in the forest to meet a man claiming to be a serial killer. But after agreeing to spend the day with him, she soon realizes that she made a deadly mistake.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTkxMDYzN15BMl5BanBnXkFtZTgwNTc3Mzc4MzI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3df"
+    },
+    "title": "Housebound",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "107 min",
+    "director": "Gerard Johnstone",
+    "writer": "Gerard Johnstone",
+    "actors": "Morgana O'Reilly, Rima Te Wiata, Glen-Paul Waru, Ross Harper",
+    "plot": "A young woman is forced to return to her childhood home after being placed under house arrest, where she suspects that something evil may be lurking.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTA5NTAzM15BMl5BanBnXkFtZTgwODE2NDkyMjE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Apple",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e0"
+    },
+    "title": "The Cabinet of Dr. Caligari",
+    "year": 1920,
+    "lang": "None",
+    "runtime": "67 min",
+    "director": "Robert Wiene",
+    "writer": "Carl Mayer, Hans Janowitz",
+    "actors": "Werner Krauss, Conrad Veidt, Friedrich Feher, Lil Dagover",
+    "plot": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjI1Y2I4NjctNjk5Mi00ZmQ5LTgyNmQtMWYzYjFhNGI1MDA4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e1"
+    },
+    "title": "Crimson Peak",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "119 min",
+    "director": "Guillermo del Toro",
+    "writer": "Guillermo del Toro, Matthew Robbins",
+    "actors": "Mia Wasikowska, Jessica Chastain, Tom Hiddleston, Charlie Hunnam",
+    "plot": "In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds - and remembers.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTY2OTI5MjAyOV5BMl5BanBnXkFtZTgwNTkzMjQ0NDE@._V1_SX300.jpg",
+    "keywords": "gothic, supernatural",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e2"
+    },
+    "title": "Halloween",
+    "year": 1978,
+    "lang": "English",
+    "runtime": "91 min",
+    "director": "John Carpenter",
+    "writer": "John Carpenter (screenplay), Debra Hill (screenplay)",
+    "actors": "Donald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles",
+    "plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "classic, slasher, Halloween",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e3"
+    },
+    "title": "The Gate",
+    "year": 1987,
+    "lang": "English",
+    "runtime": "85 min",
+    "director": "Tibor Takács",
+    "writer": "Michael Nankin",
+    "actors": "Stephen Dorff, Christa Denton, Louis Tripp, Kelly Rowan",
+    "plot": "Kids, left home alone, accidentally unleash a horde of malevolent demons from a mysterious hole in their suburban backyard.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU2M2U4YTgtMDU0MS00MzFkLTg0OGMtODFlZDk3NjY2MmMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e4"
+    },
+    "title": "Cube",
+    "year": 1997,
+    "lang": "English, German",
+    "runtime": "90 min",
+    "director": "Vincenzo Natali",
+    "writer": "André Bijelic, Vincenzo Natali, Graeme Manson",
+    "actors": "Nicole de Boer, Nicky Guadagni, David Hewlett, Andrew Miller",
+    "plot": "6 complete strangers of widely varying personality characteristics are involuntarily placed in an endless maze containing deadly traps.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTIyZGM3NDItMTNmNS00Yzc4LTg2MzItOWY4MTE1NDlmZDIyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e5"
+    },
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "lang": "English",
+    "runtime": "113 min",
+    "director": "Adrian Lyne",
+    "writer": "Bruce Joel Rubin",
+    "actors": "Tim Robbins, Elizabeth Peña, Danny Aiello, Matt Craven",
+    "plot": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTg5MTMyNjktNTZhOC00MGFlLWFlMTMtZGU2MjE3OWQ3NjJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "psychological",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e6"
+    },
+    "title": "30 Days of Night",
+    "year": 2007,
+    "lang": "English",
+    "runtime": "113 min",
+    "director": "David Slade",
+    "writer": "Steve Niles (screenplay), Stuart Beattie (screenplay), Brian Nelson (screenplay), Steve Niles (comic), Ben Templesmith (comic)",
+    "actors": "Josh Hartnett, Melissa George, Danny Huston, Ben Foster",
+    "plot": "After an Alaskan town is plunged into darkness for a month, it is attacked by a bloodthirsty gang of vampires.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmE2ODFlZjctOWZlZi00MGVkLTk5NDctYWZmMWQyOTczNjYzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "vampire, gory, survival",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e7"
+    },
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "lang": "English",
+    "runtime": "97 min",
+    "director": "John Landis",
+    "writer": "John Landis",
+    "actors": "Joe Belcher, David Naughton, Griffin Dunne, David Schofield",
+    "plot": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTYzMDk3MzIyNV5BMl5BanBnXkFtZTgwOTM2OTE4MzE@._V1_SX300.jpg",
+    "keywords": "creature, comedic, supernatural",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e8"
+    },
+    "title": "Don't Breathe",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "88 min",
+    "director": "Fede Alvarez",
+    "writer": "Fede Alvarez, Rodo Sayagues",
+    "actors": "Stephen Lang, Jane Levy, Dylan Minnette, Daniel Zovatto",
+    "plot": "Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5ZTU2M2YtZWY4MC00ZDFhLTliYTItZTk1NjdlN2NkMzg2XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Blu-ray",
+    "cost": "9.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3e9"
+    },
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "lang": "English, Latin, Spanish",
+    "runtime": "107 min",
+    "director": "M. Night Shyamalan",
+    "writer": "M. Night Shyamalan",
+    "actors": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",
+    "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "keywords": "suspense, mystery, supernatural",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ea"
+    },
+    "title": "Raw",
+    "year": 2016,
+    "lang": "French",
+    "runtime": "99 min",
+    "director": "Julia Ducournau",
+    "writer": "Julia Ducournau (dialogue), Julia Ducournau (screenplay)",
+    "actors": "Garance Marillier, Ella Rumpf, Rabah Nait Oufella, Laurent Lucas",
+    "plot": "Forced to eat meat during a college hazing, a young vegetarian develops an unbidden taste for meat that drives her down a dark path.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU3MDUxMDI0MV5BMl5BanBnXkFtZTgwMzk3OTg3MDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3eb"
+    },
+    "title": "It",
+    "year": 2017,
+    "lang": "English",
+    "runtime": "135 min",
+    "director": "Andy Muschietti",
+    "writer": "Chase Palmer (screenplay by), Cary Joji Fukunaga (screenplay by), Gary Dauberman (screenplay by), Stephen King (based on the novel by)",
+    "actors": "Jaeden Lieberher, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard",
+    "plot": "In the summer of 1989, a group of bullied kids band together to destroy a shapeshifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "HBO",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ec"
+    },
+    "title": "A Cure for Wellness",
+    "year": 2016,
+    "lang": "English, German",
+    "runtime": "146 min",
+    "director": "Gore Verbinski",
+    "writer": "Justin Haythe (screenplay by), Justin Haythe (story by), Gore Verbinski (story by)",
+    "actors": "Dane DeHaan, Jason Isaacs, Mia Goth, Ivo Nandi",
+    "plot": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps, but soon suspects that the spa's treatments are not what they seem.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5Njg1MzIwNl5BMl5BanBnXkFtZTgwNDU1NjczMDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "HBO",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ed"
+    },
+    "title": "The Fury",
+    "year": 1978,
+    "lang": "English",
+    "runtime": "118 min",
+    "director": "Brian De Palma",
+    "writer": "John Farris (screenplay), John Farris (novel)",
+    "actors": "Kirk Douglas, John Cassavetes, Carrie Snodgress, Charles Durning",
+    "plot": "A former CIA agent uses the talents of a young psychic to help retrieve his telekinetic son from terrorists, who want to use his mental powers for evil.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwNzYxYWEtYzM4OS00MTg0LWIwZjktMzc3MWUyZTQ0MjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ee"
+    },
+    "title": "Train to Busan",
+    "year": 2016,
+    "lang": "Korean",
+    "runtime": "118 min",
+    "director": "Sang-ho Yeon",
+    "writer": "Joo-Suk Park, Sang-ho Yeon (screenplay)",
+    "actors": "Yoo Gong, Yu-mi Jung, Dong-seok Ma, Su-an Kim",
+    "plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ef"
+    },
+    "title": "The Legend of Hell House",
+    "year": 1973,
+    "lang": "English",
+    "runtime": "95 min",
+    "director": "John Hough",
+    "writer": "Richard Matheson (novel), Richard Matheson (screenplay)",
+    "actors": "Pamela Franklin, Roddy McDowall, Clive Revill, Gayle Hunnicutt",
+    "plot": "Physicist Lionel Barrett and his wife lead a team of mediums into the Belasco House, which is supposedly haunted by the victims of its late owner, a six-foot-five serial killer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjFiYWVjNzMtNDBmMy00NWNiLTkxN2UtOWM0Y2RlY2IxNmFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f0"
+    },
+    "title": "We Are Still Here",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "84 min",
+    "director": "Ted Geoghegan",
+    "writer": "Ted Geoghegan",
+    "actors": "Barbara Crampton, Andrew Sensenig, Lisa Marie, Larry Fessenden",
+    "plot": "In the cold, wintery fields of New England, a lonely old house wakes up every thirty years - and demands a sacrifice.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwMzgzMjczOV5BMl5BanBnXkFtZTgwNDk2MTUxNTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f1"
+    },
+    "title": "Pumpkinhead",
+    "year": 1988,
+    "lang": "English",
+    "runtime": "86 min",
+    "director": "Stan Winston",
+    "writer": "Ed Justin (poem), Mark Patrick Carducci (story), Stan Winston (story), Richard Weinman (story), Mark Patrick Carducci (screenplay), Gary Gerani (screenplay)",
+    "actors": "Lance Henriksen, Jeff East, John D'Aquino, Kimberly Ross",
+    "plot": "After a tragic accident, a man conjures up a towering, vengeful demon called Pumpkinhead to destroy a group of unsuspecting teenagers.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTQ0YTQ2ZTUtNGFkOC00YzI2LTkwNDktN2Y0YjI4NGVjMDM3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "creature, eighties, supernatural",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f2"
+    },
+    "title": "Prevenge",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "88 min",
+    "director": "Alice Lowe",
+    "writer": "Alice Lowe",
+    "actors": "Alice Lowe, Dan Renton Skinner, Jo Hartley, Tom Davis",
+    "plot": "Widow Ruth is seven months pregnant when, believing herself to be guided by her unborn baby, she embarks on a homicidal rampage, dispatching anyone who stands in her way.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA3MjQ0NTc2OF5BMl5BanBnXkFtZTgwNjAyNzU3MTI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f3"
+    },
+    "title": "V/H/S Viral",
+    "year": 2014,
+    "lang": "English, Spanish",
+    "runtime": "81 min",
+    "director": "Justin Benson, Gregg Bishop, Todd Lincoln, Aaron Moorhead, Marcel Sarmiento, Nacho Vigalondo",
+    "writer": "T.J. Cimfel, David White, Marcel Sarmiento, Gregg Bishop, Nacho Vigalondo, Justin Benson, Brad Miska (concept: anthology concept), Todd Lincoln (segment)",
+    "actors": "Patrick Lawrie, Emilia Ares, Celia K. Milius, Steve Berens",
+    "plot": "A Los Angeles police chase sends a fame-obsessed man on a wild ride to save his girlfriend from a cybernetic terror.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMTk0MDQ5NjI5Nl5BMl5BanBnXkFtZTgwMjA1MTY3MjE@._V1_SX300.jpg",
+    "keywords": "found footage",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f4"
+    },
+    "title": "Them",
+    "year": 2006,
+    "lang": "French, Romanian",
+    "runtime": "77 min",
+    "director": "David Moreau, Xavier Palud",
+    "writer": "David Moreau, Xavier Palud",
+    "actors": "Olivia Bonamy, Michaël Cohen, Adriana Mocca, Maria Roman",
+    "plot": "Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyYWRlZjUtYjY2ZS00OTliLTlkMmItYzkxNDNjNGU0OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f5"
+    },
+    "title": "Chopping Mall",
+    "year": 1986,
+    "lang": "English",
+    "runtime": "77 min",
+    "director": "Jim Wynorski",
+    "writer": "Jim Wynorski, Steve Mitchell",
+    "actors": "Kelli Maroney, Tony O'Dell, Russell Todd, Karrie Emerson",
+    "plot": "Eight teenagers are trapped after hours in a high-tech shopping mall and pursued by three murderous security robots out of control.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNTMzYmU2NzYtY2I3OC00NTlkLWE1NzUtZDMxOTdkYTFmOTI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f6"
+    },
+    "title": "Rosemary's Baby",
+    "year": 1968,
+    "lang": "English",
+    "runtime": "137 min",
+    "director": "Roman Polanski",
+    "writer": "Ira Levin (novel), Roman Polanski (screenplay)",
+    "actors": "Mia Farrow, John Cassavetes, Ruth Gordon, Sidney Blackmer",
+    "plot": "A young couple moves in to an apartment only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3NzE4NzkyNl5BMl5BanBnXkFtZTgwNTYyODgwNzE@._V1_SX300.jpg",
+    "keywords": "classic, occult, psychological",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f7"
+    },
+    "title": "Teeth",
+    "year": 2007,
+    "lang": "English",
+    "runtime": "94 min",
+    "director": "Mitchell Lichtenstein",
+    "writer": "Mitchell Lichtenstein",
+    "actors": "Jess Weixler, John Hensley, Josh Pais, Hale Appleman",
+    "plot": "Still a stranger to her own body, a high school student discovers she has a physical advantage when she becomes the object of male violence.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjVjMjY4MzMtYzljNi00NDQ5LTk3NTYtNzY5NzYyY2FjZTZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f8"
+    },
+    "title": "Zombeavers",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "77 min",
+    "director": "Jordan Rubin",
+    "writer": "Al Kaplan (screenplay by), Jordan Rubin (screenplay by), Jon Kaplan (screenplay by)",
+    "actors": "Rachel Melvin, Cortney Palm, Lexi Atkins, Hutch Dano",
+    "plot": "A fun weekend turns into madness and horror for a bunch of groupies looking for fun in a beaver infested swamp.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzMzc4ODc1M15BMl5BanBnXkFtZTgwMTM0MTgxMTE@._V1_SX300.jpg",
+    "keywords": "camp",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3f9"
+    },
+    "title": "From Beyond",
+    "year": 1986,
+    "lang": "English",
+    "runtime": "85 min",
+    "director": "Stuart Gordon",
+    "writer": "H.P. Lovecraft (short story), Brian Yuzna (adaptation), Dennis Paoli (adaptation), Stuart Gordon (adaptation), Dennis Paoli (screenplay)",
+    "actors": "Jeffrey Combs, Barbara Crampton, Ted Sorel, Ken Foree",
+    "plot": "A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality. But when the experiment succeeds, they are immediately attacked by terrible life forms.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3ZjQ4YWQtNGFlOS00YmZiLTllZDctYTM3MDNmMTY4N2VjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3fa"
+    },
+    "title": "The Descent",
+    "year": 2005,
+    "lang": "English",
+    "runtime": "99 min",
+    "director": "Neil Marshall",
+    "writer": "Neil Marshall",
+    "actors": "Shauna Macdonald, Natalie Mendoza, Alex Reid, Saskia Mulder",
+    "plot": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NzQ1NTgwNV5BMl5BanBnXkFtZTcwNjUxMzUzMw@@._V1_SX300.jpg",
+    "keywords": "creature, suspense, gore",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3fb"
+    },
+    "title": "The Slumber Party Massacre",
+    "year": 1982,
+    "lang": "English",
+    "runtime": "77 min",
+    "director": "Amy Holden Jones",
+    "writer": "Rita Mae Brown",
+    "actors": "Michelle Michaels, Robin Stille, Michael Villella, Debra De Liso",
+    "plot": "A high school student's slumber party turns terrifying as an escaped mental patient with a drill decides to crash the party.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGIzNTMxOGEtMzg3NC00M2ZhLWEwYzAtMjE5MTQyNzBhZTcwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3fc"
+    },
+    "title": "The People Under the Stairs",
+    "year": 1991,
+    "lang": "English",
+    "runtime": "102 min",
+    "director": "Wes Craven",
+    "writer": "Wes Craven",
+    "actors": "Brandon Quintin Adams, Everett McGill, Wendy Robie, A.J. Langer",
+    "plot": "Two adults and a juvenile break into a house occupied by a brother and sister and their stolen children. There, they must fight for their lives.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQ4OTI4NmUtZDI1Mi00NTA2LWFlY2YtYWVmNjgzYmFmZjIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "suspense, home invasion, body horror",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3fd"
+    },
+    "title": "Tucker and Dale vs Evil",
+    "year": 2010,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "Eli Craig",
+    "writer": "Eli Craig, Morgan Jurgenson",
+    "actors": "Tyler Labine, Alan Tudyk, Katrina Bowden, Jesse Moss",
+    "plot": "Affable hillbillies Tucker and Dale are on vacation at their dilapidated mountain cabin when they are mistaken for murderers by a group of preppy college students.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_SX300.jpg",
+    "keywords": "camp, comedic, cabin in the woods",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3fe"
+    },
+    "title": "Candyman",
+    "year": 1992,
+    "lang": "English",
+    "runtime": "99 min",
+    "director": "Bernard Rose",
+    "writer": "Clive Barker (based on \"The Forbidden\" by), Bernard Rose",
+    "actors": "Virginia Madsen, Tony Todd, Xander Berkeley, Kasi Lemmons",
+    "plot": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVjYjhlNTQtN2UxOC00Njk5LWFjNDctODNjZTI1ZGM0ZDZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "mystery, supernatural",
+    "availability": "Blu-ray",
+    "cost": "34.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb3ff"
+    },
+    "title": "Mon Mon Mon Monsters",
+    "year": 2017,
+    "lang": "N/A",
+    "runtime": "113 min",
+    "director": "Giddens Ko",
+    "writer": "Giddens Ko",
+    "actors": "Eugenie Liu, Kent Tsai, Yu-Kai Teng, James Lai",
+    "plot": "A group of teenagers capture a man-eating monster.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzllNjFjYjYtZDA3MC00YjQ3LTk2ZjQtMmQ3YTUxMjBjNDRiXkEyXkFqcGdeQXVyNzY1NDA4NTc@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb400"
+    },
+    "title": "Better Watch Out",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "Chris Peckover",
+    "writer": "Zack Kahn (story by), Zack Kahn, Chris Peckover",
+    "actors": "Olivia DeJonge, Levi Miller, Ed Oxenbould, Aleks Mikic",
+    "plot": "On a quiet suburban street, a babysitter must defend a twelve-year-old boy from intruders, only to discover it's far from a normal home invasion.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmE5NWQyYjktMmMzYi00YjY2LWFmNTUtMWQyMzcwNWM2NWYzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "keywords": "christmas",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb401"
+    },
+    "title": "Anna and the Apocalypse",
+    "year": 2017,
+    "lang": "English",
+    "runtime": "107 min",
+    "director": "John McPhail",
+    "writer": "Alan McDonald, Ryan McHenry",
+    "actors": "Ella Hunt, Malcolm Cumming, Sarah Swire, Christopher Leveaux",
+    "plot": "A zombie apocalypse threatens the sleepy town of Little Haven during the Christmas holidays, forcing Anna and her friends to fight, sing and slash their way to survival with a fast-spreading undead horde in relentless pursuit.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMmFmYzMwMTYtYzE0OC00MjYxLWI2ZDUtYmJiMjljZGRmNDMzL2ltYWdlXkEyXkFqcGdeQXVyNTYxNjkzNzI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Not released",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb402"
+    },
+    "title": "The Devil's Candy",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "79 min",
+    "director": "Sean Byrne",
+    "writer": "Sean Byrne",
+    "actors": "Ethan Embry, Shiri Appleby, Pruitt Taylor Vince, Kiara Glasco",
+    "plot": "A struggling painter is possessed by satanic forces after he and his young family move into their dream home in rural Texas, in this creepy haunted-house tale.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQzOTIxNTA5OV5BMl5BanBnXkFtZTgwODc3NzQ1MTI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb403"
+    },
+    "title": "The Blackcoat's Daughter",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "93 min",
+    "director": "Oz Perkins",
+    "writer": "Oz Perkins",
+    "actors": "Emma Roberts, Kiernan Shipka, Lucy Boynton, James Remar",
+    "plot": "Two girls must battle a mysterious evil force when they get left behind at their boarding school over winter break.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTQ3NTEzNF5BMl5BanBnXkFtZTgwMzA0MzY1OTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb404"
+    },
+    "title": "Tragedy Girls",
+    "year": 2017,
+    "lang": "English",
+    "runtime": "98 min",
+    "director": "Tyler MacIntyre",
+    "writer": "Chris Lee Hill, Tyler MacIntyre, Justin Olson (based on an original screenplay by)",
+    "actors": "Brianna Hildebrand, Alexandra Shipp, Jack Quaid, Kevin Durand",
+    "plot": "A twist on the slasher genre, following two death-obsessed teenage girls who use their online show about real-life tragedies to send their small mid-western town into a frenzy, and cement their legacy as modern horror legends.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYzZGZlYmUtYjRkNy00MmJiLWI5YjktYWQ3NmQ0MWQ3M2I5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Hulu",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb405"
+    },
+    "title": "The Transfiguration",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "97 min",
+    "director": "Michael O'Shea",
+    "writer": "Michael O'Shea",
+    "actors": "Eric Ruffin, Karin Cherches, Luis Scott, Dangelo Bonneli",
+    "plot": "When troubled teen Milo, who has a fascination with vampire lore, meets the equally alienated Sophie, the two form a bond that begins to blur Milo's fantasy into reality.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDUxMzc5Ml5BMl5BanBnXkFtZTgwMDgxOTc2MTI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb406"
+    },
+    "title": "The Belko Experiment",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "Greg McLean",
+    "writer": "James Gunn",
+    "actors": "John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley",
+    "plot": "In a twisted social experiment, eighty Americans are locked in their high-rise corporate office in Bogotá, Colombia, and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "HBO",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb407"
+    },
+    "title": "Mayhem",
+    "year": 2017,
+    "lang": "English",
+    "runtime": "86 min",
+    "director": "Joe Lynch",
+    "writer": "Matias Caruso",
+    "actors": "Steven Yeun, Samara Weaving, Steven Brand, Caroline Chikezie",
+    "plot": "A virus spreads through an office complex causing white collar workers to act out their worst impulses.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZjMjMzZTQtNWQ5Yi00YjhiLTk4YjEtZGNhYTUyNmQzYWViXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb408"
+    },
+    "title": "The Hills Have Eyes",
+    "year": 1977,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "Wes Craven",
+    "writer": "Wes Craven",
+    "actors": "John Steadman, Janus Blythe, Peter Locke, Russ Grieve",
+    "plot": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3ODgyZTMtZTVkMi00NTAxLTk0OWQtMzM3NzVkYzRlMTA1XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb409"
+    },
+    "title": "The Ritual",
+    "year": 2017,
+    "lang": "Swedish, English",
+    "runtime": "94 min",
+    "director": "David Bruckner",
+    "writer": "Joe Barton, Adam Nevill (novel)",
+    "actors": "Rafe Spall, Arsher Ali, Robert James-Collier, Sam Troughton",
+    "plot": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzAyMDI4Ml5BMl5BanBnXkFtZTgwODMwOTY2NDM@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40a"
+    },
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "lang": "English, German",
+    "runtime": "106 min",
+    "director": "Mel Brooks",
+    "writer": "Gene Wilder (screen story and screenplay), Mel Brooks (screen story and screenplay), Mary Shelley (based on characters in the novel \"Frankenstein\" by)",
+    "actors": "Gene Wilder, Peter Boyle, Marty Feldman, Madeline Kahn",
+    "plot": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTEwNjg2MjM2ODFeQTJeQWpwZ15BbWU4MDQ1MDU5OTEx._V1_SX300.jpg",
+    "keywords": "classic, comedy, kid safe",
+    "availability": "Blu-ray",
+    "cost": "9.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40b"
+    },
+    "title": "The Rocky Horror Picture Show",
+    "year": 1975,
+    "lang": "English",
+    "runtime": "100 min",
+    "director": "Jim Sharman",
+    "writer": "Richard O'Brien (original musical play), Jim Sharman (screenplay), Richard O'Brien (screenplay)",
+    "actors": "Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien",
+    "plot": "A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMjg5NjQ4OV5BMl5BanBnXkFtZTgwOTk2NDk4NjE@._V1_SX300.jpg",
+    "keywords": "classic, comedy, musical",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40c"
+    },
+    "title": "Hush",
+    "year": 2016,
+    "lang": "English, American Sign Language",
+    "runtime": "81 min",
+    "director": "Mike Flanagan",
+    "writer": "Mike Flanagan, Kate Siegel",
+    "actors": "John Gallagher Jr., Kate Siegel, Michael Trucco, Samantha Sloyan",
+    "plot": "A deaf writer who retreated into the woods to live a solitary life must fight for her life in silence when a masked killer appears at her window.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40d"
+    },
+    "title": "Ravenous",
+    "year": 2017,
+    "lang": "French",
+    "runtime": "104 min",
+    "director": "Robin Aubert",
+    "writer": "Robin Aubert",
+    "actors": "Marc-André Grondin, Monia Chokri, Charlotte St-Martin, Micheline Lanctôt",
+    "plot": "In a small, remote village in upstate Quebec, things have changed. Locals are not the same anymore - their bodies are breaking down and they have turned against their loved ones. A handful of survivors goes hiding into the woods, looking for others like them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlMTNmZjUtNTdmNC00ZmNhLWFiN2QtNjU2ZTFkZDQ4NjE2XkEyXkFqcGdeQXVyMTE5MzA5OA@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40e"
+    },
+    "title": "Funny Games",
+    "year": 2007,
+    "lang": "English",
+    "runtime": "111 min",
+    "director": "Michael Haneke",
+    "writer": "Michael Haneke",
+    "actors": "Naomi Watts, Tim Roth, Michael Pitt, Brady Corbet",
+    "plot": "Two psychopathic young men take a family hostage in their cabin.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb40f"
+    },
+    "title": "The Fly",
+    "year": 1986,
+    "lang": "English",
+    "runtime": "96 min",
+    "director": "David Cronenberg",
+    "writer": "George Langelaan (short story), Charles Edward Pogue (screenplay), David Cronenberg (screenplay)",
+    "actors": "Jeff Goldblum, Geena Davis, John Getz, Joy Boushel",
+    "plot": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "eighties, creature, body horror",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb410"
+    },
+    "title": "Carnival of Souls",
+    "year": 1962,
+    "lang": "English",
+    "runtime": "78 min",
+    "director": "Herk Harvey",
+    "writer": "John Clifford (written)",
+    "actors": "Candace Hilligoss, Frances Feist, Sidney Berger, Art Ellison",
+    "plot": "After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjgxYjI1ODktNWYyNy00N2EyLWFhOWEtMmI1ZmU3ZmU5ZWFjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb411"
+    },
+    "title": "The Beyond",
+    "year": 1981,
+    "lang": "Italian, English",
+    "runtime": "87 min",
+    "director": "Lucio Fulci",
+    "writer": "Dardano Sacchetti (story), Dardano Sacchetti (screenplay), Giorgio Mariuzzo (screenplay), Lucio Fulci (screenplay)",
+    "actors": "Catriona MacColl, David Warbeck, Cinzia Monreale, Antoine Saint-John",
+    "plot": "A young woman inherits an old hotel in Louisiana where, following a series of supernatural \"accidents\", she learns that the building was built over one of the entrances to Hell.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2E5OGFkNjUtMWNhOC00MmU1LWJmOTctZmNjZTZjZWI4OTk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb412"
+    },
+    "title": "Diabolique",
+    "year": 1955,
+    "lang": "French, English",
+    "runtime": "117 min",
+    "director": "Henri-Georges Clouzot",
+    "writer": "Pierre Boileau (novel), Thomas Narcejac (novel), Henri-Georges Clouzot (scenario and dialogue), Jérôme Géronimi (scenario and dialogue), René Masson (collaboration), Frédéric Grendel (collaboration)",
+    "actors": "Simone Signoret, Véra Clouzot, Paul Meurisse, Charles Vanel",
+    "plot": "The wife and mistress of a cruel headmaster conspire to kill him; after the murder is committed, his corpse disappears, and strange events begin to plague the two women.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMGJmNmU5OTAtOTQyYy00MmM3LTk4MzUtMGFiZDYzODdmMmU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb413"
+    },
+    "title": "Se7en",
+    "year": 1995,
+    "lang": "English",
+    "runtime": "127 min",
+    "director": "David Fincher",
+    "writer": "Andrew Kevin Walker",
+    "actors": "Morgan Freeman, Andrew Kevin Walker, Daniel Zacapa, Brad Pitt",
+    "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "keywords": "psychological, mystery, serial killer",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb414"
+    },
+    "title": "Henry: Portrait of a Serial Killer",
+    "year": 1986,
+    "lang": "English",
+    "runtime": "83 min",
+    "director": "John McNaughton",
+    "writer": "Richard Fire, John McNaughton",
+    "actors": "Mary Demas, Michael Rooker, Anne Bartoletti, Elizabeth Kaden",
+    "plot": "Henry, a drifter, commits a series of brutal murders, supposedly operating with impunity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA2NTY4YjMtNWViOC00MDgxLWI0ZTItYTk5MDJjODNjNzVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "psychological, serial killer",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb415"
+    },
+    "title": "Martyrs",
+    "year": 2008,
+    "lang": "French",
+    "runtime": "99 min",
+    "director": "Pascal Laugier",
+    "writer": "Pascal Laugier",
+    "actors": "Morjana Alaoui, Mylène Jampanoï, Catherine Bégin, Robert Toupin",
+    "plot": "A young woman's quest for revenge against the people who kidnapped and tormented her as a child leads her and a friend, who is also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY0NTZlZjYtNWRmZi00MGRjLTk4ZDctMjE4NjBiZTUyNGNhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb416"
+    },
+    "title": "The Wicker Man",
+    "year": 1973,
+    "lang": "English",
+    "runtime": "88 min",
+    "director": "Robin Hardy",
+    "writer": "Anthony Shaffer (screenplay)",
+    "actors": "Edward Woodward, Christopher Lee, Diane Cilento, Britt Ekland",
+    "plot": "A police sergeant is sent to a Scottish island village in search of a missing girl whom the townsfolk claim never existed. Stranger still are the rites that take place there.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIzY2QyNDQtOWI3Ni00MjEwLTlhYTgtZTgyMThiY2JkMTY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb417"
+    },
+    "title": "The Orphanage",
+    "year": 2007,
+    "lang": "Spanish",
+    "runtime": "105 min",
+    "director": "J.A. Bayona",
+    "writer": "Sergio G. Sánchez (screenplay)",
+    "actors": "Belén Rueda, Fernando Cayo, Roger Príncep, Mabel Rivera",
+    "plot": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjE0NzQzMV5BMl5BanBnXkFtZTYwMzI0ODc4._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb418"
+    },
+    "title": "The Innocents",
+    "year": 1961,
+    "lang": "English",
+    "runtime": "100 min",
+    "director": "Jack Clayton",
+    "writer": "Henry James (based on the story \"The Turn of the Screw\"), John Mortimer (additional scenes \u0026 dialogue), William Archibald (screenplay), Truman Capote (screenplay)",
+    "actors": "Deborah Kerr, Peter Wyngarde, Megs Jenkins, Michael Redgrave",
+    "plot": "A young governess for two children becomes convinced that the house and grounds are haunted.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNGQyNjBjNTUtNTM1OS00YzcyLWFhNTgtNTU0MDg3NzBlMDQzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Blu-ray",
+    "cost": "9.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb419"
+    },
+    "title": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "lang": "English, French",
+    "runtime": "115 min",
+    "director": "Philip Kaufman",
+    "writer": "W.D. Richter (screenplay), Jack Finney (novel)",
+    "actors": "Donald Sutherland, Brooke Adams, Jeff Goldblum, Veronica Cartwright",
+    "plot": "In San Francisco, a group of people discover the human race is being replaced one by one, with clones devoid of emotion.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTgxMTY2MF5BMl5BanBnXkFtZTgwODg0NTc1MDE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41a"
+    },
+    "title": "Let the Right One In",
+    "year": 2008,
+    "lang": "Swedish, Spanish",
+    "runtime": "115 min",
+    "director": "Tomas Alfredson",
+    "writer": "John Ajvide Lindqvist (screenplay), John Ajvide Lindqvist (novel)",
+    "actors": "Kåre Hedebrant, Lina Leandersson, Per Ragnar, Henrik Dahl",
+    "plot": "Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjE1OTY2MTM5MF5BMl5BanBnXkFtZTcwNzQ5Mjc5MQ@@._V1_SX300.jpg",
+    "keywords": "vampire, drama, foreign",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41b"
+    },
+    "title": "Dawn of the Dead",
+    "year": 2004,
+    "lang": "English",
+    "runtime": "101 min",
+    "director": "Zack Snyder",
+    "writer": "George A. Romero, James Gunn (screenplay)",
+    "actors": "Sarah Polley, Ving Rhames, Jake Weber, Mekhi Phifer",
+    "plot": "A nurse, a policeman, a young married couple, a salesman, and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M2ZmU2OGQtNmU5Yi00MTIyLTgwNWMtYjljMzZlYTdiNjBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "zombie",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41c"
+    },
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "lang": "English",
+    "runtime": "99 min",
+    "director": "Edgar Wright",
+    "writer": "Simon Pegg, Edgar Wright",
+    "actors": "Simon Pegg, Kate Ashfield, Nick Frost, Lucy Davis",
+    "plot": "A man decides to turn his moribund life around by winning back his ex-girlfriend, reconciling his relationship with his mother, and dealing with an entire community that has returned from the dead to eat the living.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5Mjk2NDMtZTk0Ny00YTQ0LWIzYWEtMWI5MGQ0Mjg1OTNkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "zombie, comedy, survival",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41d"
+    },
+    "title": "The Babadook",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "93 min",
+    "director": "Jennifer Kent",
+    "writer": "Jennifer Kent",
+    "actors": "Essie Davis, Noah Wiseman, Hayley McElhinney, Daniel Henshall",
+    "plot": "A widowed mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SX300.jpg",
+    "keywords": "psychological, supernatural, familial",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41e"
+    },
+    "title": "The Texas Chain Saw Massacre",
+    "year": 1974,
+    "lang": "English",
+    "runtime": "83 min",
+    "director": "Tobe Hooper",
+    "writer": "Kim Henkel (screenplay by), Tobe Hooper (screenplay by), Kim Henkel (story by)",
+    "actors": "Marilyn Burns, Allen Danziger, Paul A. Partain, William Vail",
+    "plot": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "slasher, familial, survival",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb41f"
+    },
+    "title": "Psycho",
+    "year": 1960,
+    "lang": "English",
+    "runtime": "109 min",
+    "director": "Alfred Hitchcock",
+    "writer": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+    "actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+    "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "classic, psychological, mystery",
+    "availability": "Amazon",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb420"
+    },
+    "title": "Scream",
+    "year": 1996,
+    "lang": "English",
+    "runtime": "111 min",
+    "director": "Wes Craven",
+    "writer": "Kevin Williamson",
+    "actors": "Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth",
+    "plot": "A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_SX300.jpg",
+    "keywords": "classic, slasher, comedy",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb421"
+    },
+    "title": "Eden Lake",
+    "year": 2008,
+    "lang": "English",
+    "runtime": "91 min",
+    "director": "James Watkins",
+    "writer": "James Watkins",
+    "actors": "Kelly Reilly, Michael Fassbender, Tara Ellis, Jack O'Connell",
+    "plot": "Refusing to let anything spoil their romantic weekend break, a young couple confront a gang of loutish youths with terrifyingly brutal consequences.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzE0OTQzN15BMl5BanBnXkFtZTcwOTY5MDIwMg@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb422"
+    },
+    "title": "The Conjuring",
+    "year": 2013,
+    "lang": "English, Latin",
+    "runtime": "112 min",
+    "director": "James Wan",
+    "writer": "Chad Hayes, Carey W. Hayes",
+    "actors": "Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston",
+    "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg",
+    "keywords": "haunted house, suspense",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb423"
+    },
+    "title": "The Exorcist",
+    "year": 1973,
+    "lang": "English, Latin, Greek, French, German, Arabic, Kurdish",
+    "runtime": "122 min",
+    "director": "William Friedkin",
+    "writer": "William Peter Blatty (written for the screen by), William Peter Blatty (novel)",
+    "actors": "Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn",
+    "plot": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "keywords": "classic, demonic possesion",
+    "availability": "FilmStruck",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb424"
+    },
+    "title": "Southbound",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "89 min",
+    "director": "Roxanne Benjamin, David Bruckner, Patrick Horvath, Radio Silence",
+    "writer": "Roxanne Benjamin, Matt Bettinelli-Olpin, David Bruckner, Susan Burke, Dallas Richard Hallam, Patrick Horvath",
+    "actors": "Chad Villella, Matt Bettinelli-Olpin, Kristina Pesic, Fabianne Therese",
+    "plot": "Five interlocking tales of terror follow the fates of a group of weary travellers who confront their worst nightmares - and darkest secrets - over one long night on a desolate stretch of desert highway.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NDg3NjE5MF5BMl5BanBnXkFtZTgwNzQxNjA3NzE@._V1_SX300.jpg",
+    "keywords": "anthrology, demonic, gory",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb425"
+    },
+    "title": "The Neon Demon",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "118 min",
+    "director": "Nicolas Winding Refn",
+    "writer": "Nicolas Winding Refn (story by), Nicolas Winding Refn (screenplay by), Mary Laws (screenplay by), Polly Stenham (screenplay by)",
+    "actors": "Elle Fanning, Karl Glusman, Jena Malone, Bella Heathcote",
+    "plot": "An aspiring model, Jesse, is new to Los Angeles. However, her beauty and youth, which generate intense fascination and jealousy within the fashion industry, may prove themselves sinister.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTAyOTkxNTQ3NV5BMl5BanBnXkFtZTgwMjQ1NzQxOTE@._V1_SX300.jpg",
+    "keywords": "suspense, stylistic",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb426"
+    },
+    "title": "The Howling",
+    "year": 1981,
+    "lang": "English, Spanish",
+    "runtime": "91 min",
+    "director": "Joe Dante",
+    "writer": "Gary Brandner (novel), John Sayles (screenplay), Terence H. Winkless (screenplay)",
+    "actors": "Dee Wallace, Patrick Macnee, Dennis Dugan, Christopher Stone",
+    "plot": "After a bizarre and near fatal encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZTcwZmIyNjAtMWM4Yy00YzE1LTk5YzQtNjVlY2IxNzMwNzc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "comedy, creature, supernatural",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb427"
+    },
+    "title": "Honeymoon",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "87 min",
+    "director": "Leigh Janiak",
+    "writer": "Phil Graziadei, Leigh Janiak",
+    "actors": "Rose Leslie, Harry Treadaway, Ben Huber, Hanna Brown",
+    "plot": "A newlywed couple finds their lake-country honeymoon descend into chaos after Paul finds Bea wandering and disoriented in the middle of the night.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzA0NTk2NF5BMl5BanBnXkFtZTgwMzk2Njc0MjE@._V1_SX300.jpg",
+    "keywords": "suspense, supernatural",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb428"
+    },
+    "title": "Green Room",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "95 min",
+    "director": "Jeremy Saulnier",
+    "writer": "Jeremy Saulnier",
+    "actors": "Anton Yelchin, Joe Cole, Alia Shawkat, Callum Turner",
+    "plot": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_SX300.jpg",
+    "keywords": "suspense, body horror, survival",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb429"
+    },
+    "title": "Goodnight Mommy",
+    "year": 2014,
+    "lang": "German",
+    "runtime": "99 min",
+    "director": "Severin Fiala, Veronika Franz",
+    "writer": "Veronika Franz (screenplay), Severin Fiala (screenplay)",
+    "actors": "Lukas Schwarz, Elias Schwarz, Susanne Wuest, Hans Escher",
+    "plot": "Twin boys move to a new home with their mother after she has face changing cosmetic surgery, but under her bandages is someone the children don't recognize.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyMDU2NjU4OF5BMl5BanBnXkFtZTgwNDg5ODc0NjE@._V1_SX300.jpg",
+    "keywords": "psychological, familial, foreign",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42a"
+    },
+    "title": "The Others",
+    "year": 2001,
+    "lang": "English, French",
+    "runtime": "104 min",
+    "director": "Alejandro Amenábar",
+    "writer": "Alejandro Amenábar",
+    "actors": "Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann",
+    "plot": "A woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_SX300.jpg",
+    "keywords": "haunted house, suspense, familial",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42b"
+    },
+    "title": 31,
+    "year": 2016,
+    "lang": "English, Spanish, German",
+    "runtime": "102 min",
+    "director": "Rob Zombie",
+    "writer": "Rob Zombie",
+    "actors": "Sheri Moon Zombie, Jeff Daniel Phillips, Lawrence-Hilton Jacobs, Meg Foster",
+    "plot": "Five carnival workers are kidnapped and held hostage in an abandoned, Hell-like compound where they are forced to participate in a violent game, the goal of which is to survive twelve hours against a gang of sadistic clowns.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE0NTMzNjE0NV5BMl5BanBnXkFtZTgwMzM4NTM3OTE@._V1_SX300.jpg",
+    "keywords": "survival, Halloween",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42c"
+    },
+    "title": "The Hallow",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "97 min",
+    "director": "Corin Hardy",
+    "writer": "Corin Hardy (story by), Felipe Marino (story by), Tom de Ville (story by), Corin Hardy (screenplay by), Felipe Marino (screenplay by)",
+    "actors": "Joseph Mawle, Bojana Novakovic, Michael McElhatton, Michael Smiley",
+    "plot": "A family who moved into a remote mill house in Ireland finds themselves in a fight for survival with demonic creatures living in the woods.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2MjUzNTg5MF5BMl5BanBnXkFtZTgwNTY1MTY3NjE@._V1_SX300.jpg",
+    "keywords": "supernatural, creature, familial",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42d"
+    },
+    "title": "The Invitation",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "100 min",
+    "director": "Karyn Kusama",
+    "writer": "Phil Hay, Matt Manfredi",
+    "actors": "Logan Marshall-Green, Tammy Blanchard, Emayatzy Corinealdi, Aiden Lovekamp",
+    "plot": "While attending a dinner party at his former home, a man thinks his ex-wife and her new husband have sinister intentions for their guests.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1_SX300.jpg",
+    "keywords": "suspense, familial, cult, survival",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42e"
+    },
+    "title": "Tales of Halloween",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "92 min",
+    "director": "Darren Lynn Bousman, Axelle Carolyn, Adam Gierasch, Andrew Kasch, Neil Marshall, Lucky McKee, Mike Mendez, Dave Parker, Ryan Schifrin, John Skipp, Paul Solet",
+    "writer": "Axelle Carolyn (created by), Dave Parker, Clint Sears, Greg Commons, Axelle Carolyn, Lucky McKee, Molly Millions, Billy Jackson (creative consultant), John Skipp, Andrew Kasch, Mike Mendez, Dave Parker, Ryan Schifrin, Neil Marshall",
+    "actors": "Adrienne Barbeau, Hunter Smit, Cameron Easton, Caroline Williams",
+    "plot": "Ten stories are woven together by their shared theme of Halloween night in an American suburb, where ghouls, imps, aliens and axe murderers appear for one night only to terrorize unsuspecting residents.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQwODQ1MTM1MF5BMl5BanBnXkFtZTgwODUwNzY5NjE@._V1_SX300.jpg",
+    "keywords": "anthrology, Halloween",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb42f"
+    },
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "lang": "English",
+    "runtime": "91 min",
+    "director": "Wes Craven",
+    "writer": "Wes Craven",
+    "actors": "John Saxon, Ronee Blakley, Heather Langenkamp, Amanda Wyss",
+    "plot": "The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzFjZmM1ODgtMDBkMS00NWFlLTg2YmUtZjc3ZTgxMjE1OTI2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "slasher, Eighties, supernatural",
+    "availability": "Vudu",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb430"
+    },
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "year": 1987,
+    "lang": "English",
+    "runtime": "96 min",
+    "director": "Chuck Russell",
+    "writer": "Wes Craven (story), Bruce Wagner (story), Wes Craven (screenplay), Bruce Wagner (screenplay), Frank Darabont (screenplay), Chuck Russell (screenplay), Wes Craven (characters)",
+    "actors": "Heather Langenkamp, Craig Wasson, Patricia Arquette, Robert Englund",
+    "plot": "A psychiatrist familiar with knife-wielding dream demon Freddy Krueger helps teens at a mental hospital battle the killer who is invading their dreams.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2UyYjhiNzktNzkzNi00MzVlLWIwMGItMTU4YTY2ZDM5YjgzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "slasher, Eighties, supernatural",
+    "availability": "Vudu",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb431"
+    },
+    "title": "A Nightmare on Elm Street 4: The Dream Master",
+    "year": 1988,
+    "lang": "English",
+    "runtime": "93 min",
+    "director": "Renny Harlin",
+    "writer": "Wes Craven (character), William Kotzwinkle (story), Brian Helgeland (story), Brian Helgeland (screenplay), Jim Wheat (screenplay), Ken Wheat (screenplay)",
+    "actors": "John Beckman, Kisha Brackel, Brooke Bundy, Wanda Bursey",
+    "plot": "Freddy Krueger returns once again to terrorize the dreams of the remaining Dream Warriors, as well as those of a young woman who may be able to defeat him for good.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM5NWJjNWEtODgwNC00ODM1LWE4NzctMWNlNGNkNjg3NjE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "slasher, Eighties, supernatural, camp",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb432"
+    },
+    "title": "It Follows",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "100 min",
+    "director": "David Robert Mitchell",
+    "writer": "David Robert Mitchell",
+    "actors": "Bailey Spry, Carollette Phillips, Loren Bass, Keir Gilchrist",
+    "plot": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "psychological, supernatural, suspense",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb433"
+    },
+    "title": "Evil Dead",
+    "year": 2013,
+    "lang": "English",
+    "runtime": "91 min",
+    "director": "Fede Alvarez",
+    "writer": "Fede Alvarez (screenplay by), Rodo Sayagues (screenplay by), Sam Raimi (based on the motion picture \"The Evil Dead\",  written by)",
+    "actors": "Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas",
+    "plot": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SX300.jpg",
+    "keywords": "supernatural, gory, survival, body horror, cabin in the woods",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb434"
+    },
+    "title": "Audition",
+    "year": 1999,
+    "lang": "Japanese",
+    "runtime": "115 min",
+    "director": "Takashi Miike",
+    "writer": "Ryû Murakami (novel), Daisuke Tengan (screenplay)",
+    "actors": "Ryo Ishibashi, Eihi Shiina, Tetsu Sawaki, Jun Kunimura",
+    "plot": "A widower takes an offer to screen girls at a special audition, arranged for him by a friend to find him a new wife. The one he fancies is not who she appears to be after all.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjMyYzYzZmEtMDM5My00ZjY3LWFjZTktM2Y0MDg1ZjQ3YTQ2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "suspense, drama, body horror",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb435"
+    },
+    "title": "Evil Dead II",
+    "year": 1987,
+    "lang": "English, Latin",
+    "runtime": "84 min",
+    "director": "Sam Raimi",
+    "writer": "Sam Raimi, Scott Spiegel",
+    "actors": "Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley DePaiva",
+    "plot": "The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWY3ODZlOGMtNzJmOS00ZTNjLWI3ZWEtZTJhZTk5NDZjYWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "keywords": "supernatural, comedic, demonic, cabin in the woods",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb436"
+    },
+    "title": "Under the Skin",
+    "year": 2013,
+    "lang": "English",
+    "runtime": "108 min",
+    "director": "Jonathan Glazer",
+    "writer": "Walter Campbell, Jonathan Glazer, Michel Faber (based on the novel by)",
+    "actors": "Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay, Dougie McConnell",
+    "plot": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg",
+    "keywords": "sci-fi, supernatural, psychological",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb437"
+    },
+    "title": "28 Days Later...",
+    "year": 2002,
+    "lang": "English, Spanish",
+    "runtime": "113 min",
+    "director": "Danny Boyle",
+    "writer": "Alex Garland",
+    "actors": "Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider",
+    "plot": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTFkM2ViMmQtZmI5NS00MjQ2LWEyN2EtMTI1ZmNlZDU3MTZjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "keywords": "zombie, survival",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb438"
+    },
+    "title": "The Witch",
+    "year": 2015,
+    "lang": "English",
+    "runtime": "92 min",
+    "director": "Robert Eggers",
+    "writer": "Robert Eggers",
+    "actors": "Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw",
+    "plot": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SX300.jpg",
+    "keywords": "supernatural, familial",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb439"
+    },
+    "title": "Pulse",
+    "year": 2001,
+    "lang": "Japanese",
+    "runtime": "119 min",
+    "director": "Kiyoshi Kurosawa",
+    "writer": "Kiyoshi Kurosawa",
+    "actors": "Haruhiko Katô, Kumiko Asô, Koyuki, Kurume Arisaka",
+    "plot": "Two groups of people discover evidence that suggests spirits may be trying to invade the human world through the Internet.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2QyYmRlNjAtYTIzMC00Zjk5LWFmNTYtYzIxZDc2OTFiNmZiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43a"
+    },
+    "title": "Re-Animator",
+    "year": 1985,
+    "lang": "English, German",
+    "runtime": "105 min",
+    "director": "Stuart Gordon",
+    "writer": "H.P. Lovecraft (story \"Herbert West,  Re-Animator\"), Dennis Paoli (screenplay), William Norris (screenplay), Stuart Gordon (screenplay)",
+    "actors": "Jeffrey Combs, Bruce Abbott, Barbara Crampton, David Gale",
+    "plot": "A dedicated student at a medical college and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue when an odd new student arrives on campus.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA5YjI0MTEtMWRmZS00OGViLWEwYWYtYWY3OWY4YWNmNzExXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "camp, comedic, gore",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43b"
+    },
+    "title": "Frankenstein",
+    "year": 1931,
+    "lang": "English, Latin",
+    "runtime": "70 min",
+    "director": "James Whale",
+    "writer": "John L. Balderston (based upon the composition by), Mary Shelley (from the novel by), Peggy Webling (adapted from the play by), Garrett Fort (screen play), Francis Edward Faragoh (screen play), Richard Schayer (scenario editor)",
+    "actors": "Colin Clive, Mae Clarke, John Boles, Boris Karloff",
+    "plot": "An obsessed scientist assembles a living being from parts of exhumed corpses.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyOTg5NTE1Nl5BMl5BanBnXkFtZTgwMDY2NTUyMjE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Vudu",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43c"
+    },
+    "title": "[Rec]",
+    "year": 2007,
+    "lang": "Spanish, Japanese",
+    "runtime": "78 min",
+    "director": "Jaume Balagueró, Paco Plaza",
+    "writer": "Jaume Balagueró (screenplay), Luiso Berdejo (screenplay), Paco Plaza (screenplay)",
+    "actors": "Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano, Pablo Rosso",
+    "plot": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@._V1_SX300.jpg",
+    "keywords": "found footage, survival, biological",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43d"
+    },
+    "title": "Suspiria",
+    "year": 1977,
+    "lang": "Italian, Russian, English, German, Latin",
+    "runtime": "92 min",
+    "director": "Dario Argento",
+    "writer": "Dario Argento (screenplay), Daria Nicolodi (screenplay)",
+    "actors": "Jessica Harper, Stefania Casini, Flavio Bucci, Miguel Bosé",
+    "plot": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRiYTNjODctNGU1Ni00NDg3LTk0NGUtMWU0NjgyZTAyYmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "classic, supernatural, occult, stylistic",
+    "availability": "Blu-ray",
+    "cost": "27.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43e"
+    },
+    "title": "The Night of the Hunter",
+    "year": 1955,
+    "lang": "English",
+    "runtime": "92 min",
+    "director": "Charles Laughton",
+    "writer": "James Agee (screenplay by), Davis Grubb (based on the novel by)",
+    "actors": "Robert Mitchum, Shelley Winters, Lillian Gish, James Gleason",
+    "plot": "A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNjN2M2MzYtZGEwMi00Mzc5LWEwYTMtODM1ZmRiZjFiNTU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "The Night of the Hunter",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb43f"
+    },
+    "title": "Poltergeist",
+    "year": 1982,
+    "lang": "English",
+    "runtime": "114 min",
+    "director": "Tobe Hooper",
+    "writer": "Steven Spielberg (screenplay), Michael Grais (screenplay), Mark Victor (screenplay), Steven Spielberg (story)",
+    "actors": "Craig T. Nelson, JoBeth Williams, Beatrice Straight, Dominique Dunne",
+    "plot": "A family's home is haunted by a host of ghosts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzliZmRlYTctYmNkYS00NzE5LWI1OWQtMTRiODY5MDMwMTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "classic, haunted house, supernatural, kid safe",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb440"
+    },
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "lang": "English",
+    "runtime": "96 min",
+    "director": "George A. Romero",
+    "writer": "John A. Russo (screenplay), George A. Romero (screenplay)",
+    "actors": "Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman",
+    "plot": "There is panic throughout the nation as the dead suddenly come back to life. The film follows a group of characters who barricade themselves in an old farmhouse in an attempt to remain safe from these bloodthirsty, flesh-eating monsters.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRjZjE3OGUtYzIyYy00NGRkLTliYTUtYmI1ZjQ3YmZjYTZiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "classic, zombie, survival",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb441"
+    },
+    "title": "The Thing",
+    "year": 1982,
+    "lang": "English, Norwegian",
+    "runtime": "109 min",
+    "director": "John Carpenter",
+    "writer": "Bill Lancaster (screenplay), John W. Campbell Jr. (story)",
+    "actors": "Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon",
+    "plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "keywords": "classic, sci-fi, survival, creature, gore",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb442"
+    },
+    "title": "Suspiria",
+    "year": 2018,
+    "lang": "English",
+    "runtime": "170 min",
+    "director": "Luca Guadagnino",
+    "writer": "Dario Argento (characters), Daria Nicolodi (characters), David Kajganich (screenplay)",
+    "actors": "Chloë Grace Moretz, Dakota Johnson, Tilda Swinton, Mia Goth",
+    "plot": "A young American ballerina comes to train at a prestigious German dance academy and uncovers the school's dark and menacing secrets.",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FjMWIyMmItYzMwNS00YzdkLWEyMTctOTQ4MmVkOTkwMWU5XkEyXkFqcGdeQXVyNjQyOTU5NjE@._V1_SX300.jpg",
+    "keywords": "supernatural, occult, stylistic",
+    "availability": "In theaters",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb443"
+    },
+    "title": "Peeping Tom",
+    "year": 1960,
+    "lang": "English",
+    "runtime": "101 min",
+    "director": "Michael Powell",
+    "writer": "Leo Marks (original story), Leo Marks (screenplay)",
+    "actors": "Karlheinz Böhm, Moira Shearer, Anna Massey, Maxine Audley",
+    "plot": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BZjM3ZTAzZDYtZmFjZS00YmQ1LWJlOWEtN2I4MDRmYzY5YmRlL2ltYWdlXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb444"
+    },
+    "title": "Wild Tales",
+    "year": 2014,
+    "lang": "Spanish",
+    "runtime": "122 min",
+    "director": "Damián Szifron",
+    "writer": "Germán Servidio (collaborating writer), Damián Szifron",
+    "actors": "Darío Grandinetti, María Marull, Mónica Villa, Diego Starosta",
+    "plot": "Six short stories that explore the extremities of human behavior involving people in distress.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb445"
+    },
+    "title": "Horror of Dracula",
+    "year": 1958,
+    "lang": "English",
+    "runtime": "82 min",
+    "director": "Terence Fisher",
+    "writer": "Jimmy Sangster (screenplay), Bram Stoker (novel)",
+    "actors": "Peter Cushing, Christopher Lee, Michael Gough, Melissa Stribling",
+    "plot": "Jonathan Harker begets the ire of Count Dracula after he accepts a job at the vampire's castle under false pretenses.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGI5YTA5OTMtNDc1Yy00YTc2LTg2MDUtNjdiYzBkZmZkMzVlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb446"
+    },
+    "title": "A Girl Walks Home Alone at Night",
+    "year": 2014,
+    "lang": "Persian",
+    "runtime": "101 min",
+    "director": "Ana Lily Amirpour",
+    "writer": "Ana Lily Amirpour",
+    "actors": "Sheila Vand, Arash Marandi, Marshall Manesh, Mozhan Marnò",
+    "plot": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzNjMyMjU2M15BMl5BanBnXkFtZTgwMzA3NjQ0MzE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb447"
+    },
+    "title": "Spring",
+    "year": 2014,
+    "lang": "English, Italian",
+    "runtime": "109 min",
+    "director": "Justin Benson, Aaron Moorhead",
+    "writer": "Justin Benson",
+    "actors": "Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti, Nick Nevern",
+    "plot": "A young man in a personal tailspin flees from US to Italy, where he sparks up a romance with a woman harboring a dark, primordial secret.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjMwNzM2OTk3OF5BMl5BanBnXkFtZTgwNjExOTU0NDE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb448"
+    },
+    "title": "I Am Not a Serial Killer",
+    "year": 2016,
+    "lang": "English",
+    "runtime": "104 min",
+    "director": "Billy O'Brien",
+    "writer": "Billy O'Brien, Christopher Hyde, Dan Wells (based on the novel by)",
+    "actors": "Max Records, Christopher Lloyd, Laura Fraser, Christina Baldwin",
+    "plot": "In a small Midwestern town, a troubled teen with homicidal tendencies must hunt down and destroy a supernatural killer while keeping his own inner demons at bay.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWVmMTBiMGQtYjQ2ZC00MGFkLThlOGItNWI0MDZhZmJiZjQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb449"
+    },
+    "title": "Antichrist",
+    "year": 2009,
+    "lang": "English",
+    "runtime": "108 min",
+    "director": "Lars von Trier",
+    "writer": "Lars von Trier",
+    "actors": "Willem Dafoe, Charlotte Gainsbourg, Storm Acheche Sahlstrøm",
+    "plot": "A grieving couple retreat to their cabin in the woods, hoping to repair their broken hearts and troubled marriage, but nature takes its course and things go from bad to worse.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MjQ2ODc1N15BMl5BanBnXkFtZTcwNjYyMzI5Mg@@._V1_SX300.jpg",
+    "keywords": "supernatural, psychological, body horror",
+    "availability": "FilmStruck",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44a"
+    },
+    "title": "The Omen",
+    "year": 1976,
+    "lang": "English, Latin, Italian",
+    "runtime": "111 min",
+    "director": "Richard Donner",
+    "writer": "David Seltzer",
+    "actors": "Gregory Peck, Lee Remick, David Warner, Billie Whitelaw",
+    "plot": "Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNjZDcwNTMtMjQxMy00ZTY5LTg4M2YtYjA5NDliNjNhYzQ3XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "keywords": "supernatural, suspense, classic",
+    "availability": "HBO",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44b"
+    },
+    "title": "The Sacrament",
+    "year": 2013,
+    "lang": "English",
+    "runtime": "99 min",
+    "director": "Ti West",
+    "writer": "Ti West",
+    "actors": "Joe Swanberg, AJ Bowen, Kentucker Audley, Gene Jones",
+    "plot": "A news team trails a man as he travels into the world of Eden Parish to find his missing sister, where it becomes apparent that this paradise may not be as it seems.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE1ODg1MzM3Ml5BMl5BanBnXkFtZTgwMDg3NDQyMTE@._V1_SX300.jpg",
+    "keywords": "found footage, suspense, cult",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44c"
+    },
+    "title": "The House of the Devil",
+    "year": 2009,
+    "lang": "English",
+    "runtime": "95 min",
+    "director": "Ti West",
+    "writer": "Ti West",
+    "actors": "Jocelin Donahue, Tom Noonan, Mary Woronov, Greta Gerwig",
+    "plot": "In 1983, financially struggling college student Samantha Hughes takes a strange babysitting job that coincides with a full lunar eclipse. She slowly realizes her clients harbor a terrifying secret, putting her life in mortal danger.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDAxODg5ODReQTJeQWpwZ15BbWU3MDI5ODYxODI@._V1_SX300.jpg",
+    "keywords": "supernatural, suspense, occult",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44d"
+    },
+    "title": "Starry Eyes",
+    "year": 2014,
+    "lang": "English",
+    "runtime": "98 min",
+    "director": "Kevin Kölsch, Dennis Widmyer",
+    "writer": "Kevin Kölsch, Dennis Widmyer",
+    "actors": "Alex Essoe, Amanda Fuller, Noah Segan, Fabianne Therese",
+    "plot": "A hopeful young starlet uncovers the ominous origins of the Hollywood elite and enters into a deadly agreement in exchange for fame and fortune.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTY1ODUyODIxOF5BMl5BanBnXkFtZTgwMDcyMjE0MzE@._V1_SX300.jpg",
+    "keywords": "supernatural, suspense, gory",
+    "availability": "Prime Video",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44e"
+    },
+    "title": "Alucarda",
+    "year": 1977,
+    "lang": "English",
+    "runtime": "78 min",
+    "director": "Juan López Moctezuma",
+    "writer": "Sheridan Le Fanu (novel), Alexis Arroyo (story), Tita Arroyo (story), Juan López Moctezuma (story), Yolanda López Moctezuma (story), Alexis Arroyo (screenplay), Juan López Moctezuma (screenplay)",
+    "actors": "Claudio Brook, David Silva, Tina Romero, Susana Kamini",
+    "plot": "After the death of her parents, a young girl arrives at a convent and brings a sinister presence with her. Is it her enigmatic imaginary friend, Alucarda, who is to blame? Or is there a satanic force at work?",
+    "poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NzA2MTI4NF5BMl5BanBnXkFtZTcwODc1NTIyMQ@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "DVD",
+    "cost": "14.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb44f"
+    },
+    "title": "Kill List",
+    "year": 2011,
+    "lang": "English, Swedish",
+    "runtime": "95 min",
+    "director": "Ben Wheatley",
+    "writer": "Ben Wheatley, Amy Jump",
+    "actors": "Neil Maskell, MyAnna Buring, Harry Simpson, Michael Smiley",
+    "plot": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NzU2NzUzMV5BMl5BanBnXkFtZTcwNjY2OTUxNw@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb450"
+    },
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "lang": "English, Spanish",
+    "runtime": "127 min",
+    "director": "George A. Romero",
+    "writer": "George A. Romero",
+    "actors": "David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross",
+    "plot": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb451"
+    },
+    "title": "In the Mouth of Madness",
+    "year": 1994,
+    "lang": "English",
+    "runtime": "95 min",
+    "director": "John Carpenter",
+    "writer": "Michael De Luca",
+    "actors": "Sam Neill, Julie Carmen, Jürgen Prochnow, David Warner",
+    "plot": "An insurance investigator begins discovering that the impact a horror writer's books have on his fans is more than inspirational.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNkMWVkYTUtYzUwZi00ZWI1LTg3MzktZjVkNDQxZjFhOTY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "2.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb452"
+    },
+    "title": "Hellraiser",
+    "year": 1987,
+    "lang": "English",
+    "runtime": "94 min",
+    "director": "Clive Barker",
+    "writer": "Clive Barker",
+    "actors": "Andrew Robinson, Clare Higgins, Ashley Laurence, Sean Chapman",
+    "plot": "An unfaithful wife encounters the zombie of her dead lover; the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNzc4NjkwNV5BMl5BanBnXkFtZTgwNzI2Mjc1MDE@._V1_SX300.jpg",
+    "keywords": "supernatural, Eighties, demonic",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb453"
+    },
+    "title": "The Masque of the Red Death",
+    "year": 1964,
+    "lang": "English, Latin",
+    "runtime": "89 min",
+    "director": "Roger Corman",
+    "writer": "Charles Beaumont (screenplay), R. Wright Campbell (screenplay), Edgar Allan Poe (from a story by)",
+    "actors": "Vincent Price, Hazel Court, Jane Asher, David Weston",
+    "plot": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjFjYmZmZDctZWUzZS00ZDY2LWE1MGMtMTIwMDAxODgzN2ZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb454"
+    },
+    "title": "The Ring",
+    "year": 2002,
+    "lang": "English",
+    "runtime": "115 min",
+    "director": "Gore Verbinski",
+    "writer": "Ehren Kruger (screenplay), Kôji Suzuki (novel)",
+    "actors": "Naomi Watts, Martin Henderson, David Dorfman, Brian Cox",
+    "plot": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone in a week of viewing it.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg",
+    "keywords": "supernatural, suspense, mystery",
+    "availability": "Blu-ray",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb455"
+    },
+    "title": "Demons",
+    "year": 1985,
+    "lang": "Italian, English",
+    "runtime": "88 min",
+    "director": "Lamberto Bava",
+    "writer": "Dardano Sacchetti (original story), Dario Argento (screenplay), Lamberto Bava (screenplay), Dardano Sacchetti (screenplay), Franco Ferrini (screenplay)",
+    "actors": "Urbano Barberini, Natasha Hovey, Karl Zinny, Fiore Argento",
+    "plot": "A group of random people are invited to a screening of a mysterious movie, only to find themselves trapped in the theater with ravenous demons.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BODQxN2JiMmUtODAwYi00ZTA0LTk4MDAtYWQ0MmJiNjRkZDg3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb456"
+    },
+    "title": "A Tale of Two Sisters",
+    "year": 2003,
+    "lang": "Korean",
+    "runtime": "115 min",
+    "director": "Jee-woon Kim",
+    "writer": "Jee-woon Kim (screenplay)",
+    "actors": "Kap-su Kim, Jung-ah Yum, Soo-jung Lim, Geun-young Moon",
+    "plot": "A family is haunted by the tragedies of deaths within the family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc2ZmYzMzEtZDA2My00MDViLTkwYzAtNjZjYmFiZjVkYzcxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Shudder",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb457"
+    },
+    "title": "Silent House",
+    "year": 2011,
+    "lang": "English",
+    "runtime": "86 min",
+    "director": "Chris Kentis, Laura Lau",
+    "writer": "Gustavo Hernández (film \"La casa muda\"), Laura Lau (screenplay), Oscar Estévez (original screen play)",
+    "actors": "Elizabeth Olsen, Adam Trese, Eric Sheffer Stevens, Julia Chan",
+    "plot": "A girl is trapped inside her family's lakeside retreat and becomes unable to contact the outside world as supernatural forces haunt the house with mysterious energy and consequences.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb458"
+    },
+    "title": "Devil's Pass",
+    "year": 2013,
+    "lang": "English, Russian",
+    "runtime": "100 min",
+    "director": "Renny Harlin",
+    "writer": "Vikram Weet",
+    "actors": "Holly Goss, Matt Stokoe, Luke Albright, Ryan Hawley",
+    "plot": "A group of 5 students go the location of the infamous \"dyatlov pass incident\", to make a documentary but things take a turn for the worse to reveal the secrets as to what happened there.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMzOTMxMTA3N15BMl5BanBnXkFtZTgwNDg4MDAwMDE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb459"
+    },
+    "title": "Oculus",
+    "year": 2013,
+    "lang": "English",
+    "runtime": "104 min",
+    "director": "Mike Flanagan",
+    "writer": "Mike Flanagan (screenplay by), Jeff Howard (screenplay by), Mike Flanagan (based on a short screenplay by), Jeff Seidman (based on a short screenplay by)",
+    "actors": "Karen Gillan, Brenton Thwaites, Katee Sackhoff, Rory Cochrane",
+    "plot": "A woman tries to exonerate her brother, who was convicted of murder, by proving that the crime was committed by a supernatural phenomenon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE1NzM4MjEyNV5BMl5BanBnXkFtZTgwMjYzMjMzMTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb45a"
+    },
+    "title": "As Above, So Below",
+    "year": 2014,
+    "lang": "English, French, Latin",
+    "runtime": "93 min",
+    "director": "John Erick Dowdle",
+    "writer": "John Erick Dowdle (screenplay), Drew Dowdle (screenplay)",
+    "actors": "Perdita Weeks, Ben Feldman, Edwin Hodge, François Civil",
+    "plot": "When a team of explorers ventures into the catacombs that lie beneath the streets of Paris, they uncover the dark secret that lies within this city of the dead.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Amazon",
+    "cost": "3.99"
+} {
+    "_id": {
+        "$oid": "5b8eb2c8d4f69ad3b37fb45b"
+    },
+    "title": "Under the Shadow",
+    "year": 2016,
+    "lang": "Persian",
+    "runtime": "84 min",
+    "director": "Babak Anvari",
+    "writer": "Babak Anvari",
+    "actors": "Narges Rashidi, Avin Manshadi, Bobby Naderi, Arash Marandi",
+    "plot": "As a mother and daughter struggle to cope with the terrors of the post-revolution, war-torn Tehran of the 1980s, a mysterious evil begins to haunt their home.",
+    "poster": "https://ia.media-imdb.com/images/M/MV5BMjIwMjQwMDU2OV5BMl5BanBnXkFtZTgwNzMwMDg2OTE@._V1_SX300.jpg",
+    "keywords": "",
+    "availability": "Netflix",
+    "cost": ""
+}
